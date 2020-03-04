@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <style>
+    	.class{
+        font-size:"150px"
+        
+        }
+    	table, th, td {
+  		border: 1px solid black;
+		}
+    
+    </style>
+		<title>Ejercicio 2</title>
+        
+	</head>
+    
+	<body style="font-family:calibri  ;font-size:20px">
+		<table>
+        <tr style="background-color:blue">
+        
+        <th text-align:center colspan="4" style="font-size:30px">First Gen Pokemon</th>
+        
+        
+        </tr>
+        <div style="background-color:#ffffff">
+
+        	<tr style="background-color:#00ffff">
+        
+        		<td>Imagen</td>
+            	<td>Name</td>
+        		<td>Type</td>
+            	<td>Evolves Info</td>
+        	
+        	</tr>
+        </div>
+        
+        <tr style="background-color:red; text-align:center "> 
+        	<td><img 								src="https://upload.wikimedia.org/wikipedia/en/2/28/Pok%C3%A9mon_Bulbasaur_art.png" alt="no se"></img></td>
+            <td>Bulbasaur</td>
+            <td>Grass/Poison</td>
+            <td><a style="color:#000000" href="https://en.wikipedia.org/wiki/Bulbasaur" target="_blank">Bulbasaur</a></td>
+        
+        
+        </tr>
+        
+        <tr style="background-color:#000000 ; color:white; text-align:center">
+        	<td><img 								src="https://upload.wikimedia.org/wikipedia/en/a/a5/Pok%C3%A9mon_Charmander_art.png" alt="no se"></img></td>
+            <td>Charmander</td>
+            <td>Fire</td>
+            <td><a style="color:#ffffff" href="https://en.wikipedia.org/wiki/Charmander" target="_blank">Charmander</a></td>
+        
+        
+        </tr>
+        <tr style="background-color:#ffffff; text-align:center ">
+        	<td>
+            <img 									src="https://upload.wikimedia.org/wikipedia/en/5/59/Pok%C3%A9mon_Squirtle_art.png" alt="no se">		</img></td>
+            <td>Squirtle</td>
+            <td>Water</td>
+            <td><a style="color:#000000" href="https://en.wikipedia.org/wiki/Squirtle" target="_blank">Squirtle</a></td>
+        
+        
+        </tr>
+        
+        
+        
+        
+        
+        
+        </table>
+
+
+
+
+	</body>
+</html>

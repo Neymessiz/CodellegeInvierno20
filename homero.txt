@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <style>
+    	img{
+        
+        
+        }
+		<title>Page Title</title>
+	</style>
+    </head>
+    
+	<body style="background-color:#99d1ea">
+    	<center><img src="http://homerswebpage.com/images/header.jpg"></center>
+        <center>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/index.html">&lt&lt Home &gt&gt</a>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/capitulos_online/capitulos_de_los_simpsons_online.html">&lt&lt Capitulos Online &gt&gt</a>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/wallpapers.html">&lt&lt Wallpapers &gt&gt</a>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/games.html">&lt&lt Games &gt&gt</a>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/sounds.html">&lt&lt Sounds &gt&gt</a>
+        <a style="color:#000000" target="_blank" href="http://homerswebpage.com/gifs.html">&lt&lt Gifs &gt&gt</a>
+        </center>
+    
+    	<table>
+        	<tr>
+            <center><img src="http://homerswebpage.com/images/sistemaTDC.jpg"></center>
+            </tr>
+        	<tr>
+            	
+                <td colspan="50"><img src="http://homerswebpage.com/flash/reloj_60px1.gif"></td>
+                
+                
+                
+            
+            
+            </tr>
+            <tr>
+            <center><img src="http://homerswebpage.com/images/facebook.jpg"></center>
+            </tr>
+            <tr>	
+            	<td colspan="4"><center><img src="http://homerswebpage.com/images/jebusDance.gif"></center></td>
+            </tr>
+            
+    		
+        
+        	
+        
+    		
+        
+        	
+            
+        </table>
+        
+
+
+
+	</body>
+</html>

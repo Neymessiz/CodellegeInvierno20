@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+    
+		<title>Forms</title>
+        
+	</head>
+    
+	<body style="font-family:arial; background-color:#000000; color:#ffffff">
+
+		<h1>Registration Form</h1>
+        
+        <form>
+        
+			<label>User id:</label> <br>            
+			<input type="text" id="User" name="user" minlength="5" maxlength="12"> <br>
+            
+			<label>Password:</label> <br>            
+			<input type="text" id="Password" name="password" minlength="5" maxlength="12"> <br>
+            
+            <label>Name:</label> <br>            
+			<input type="text" id="Name" name="name"> <br>
+            
+            <label>Adress:</label> <br>            
+			<input type="text" id="Adress" name="adress"> <br>
+            
+		</form>
+        <br>
+        
+        Country: <select>
+        	<option>Mexico</option>
+        	<option>United States</option>
+        	<option>Spain</option>
+        	<option>Canada</option>
+        	<option>China</option>
+            </select>
+        <form>
+        <br>
+        	<label>IP Code:</label> <br>            
+            <input type="text" id="ip" name="ip"> <br>
+            
+            <label>Email:</label> <br>            
+            <input type="text" id="email" name="email"> <br>
+            
+        </form>
+        
+        <br>
+        
+        Gender: <form>
+  			<input type="radio" id="male" name="gender" value="male">
+  			<label for="male">Male</label>
+            
+  			<input type="radio" id="female" name="gender" value="female">
+  			<label for="female">Female</label>
+            
+		</form>
+        
+        <br>
+        
+        Language: <form>
+        
+        	<input type="radio" id="english" name="Language" value="English">
+            <label for="english">English</label>
+                
+         	<input type="radio" id="english" name="Language" value="Non English">
+            <label for="non english">Non English</label>
+            
+            </form>
+            
+            <br>
+            
+          About:<br><textarea rows="4" cols="50"></textarea>
+          
+          
+          <br>
+          <br>
+          
+          <button type="nutton">Submit</button>
+          
+          
+        
+		
+
+	</body>
+    
+</html>
