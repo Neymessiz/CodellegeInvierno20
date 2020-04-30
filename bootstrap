@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  <div class="collapse navbar-collapse" id="collapsibleNavbar" style="float:right">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#">Hola</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Que haces</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Bye</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+
+<div style=" width:100%;"> 
+<center>
+  <div class="container" >
+      
+     <div class="col-md-6 mb-4" >
+
+        <h2 class="my-5 h2">Who we are?</h2>
+<br>
+
+        <img class="rounded-circle"  width="70%"src="https://tinyurl.com/y9smztbb"
+          data-holder-rendered="true">
+          <br>
+
+<h2 class="my-5 h2">We are the simpsons</h2>
+      </div>
+      <!--Grid column-->
+
+</center>
+</div>
+<br>
+<br><br>
+<br>
+<center>
+  <div style="background-color:gray;width:100%;padding-top:.2%;padding-bottom:.2%">
+
+    <h2 class="my-5 h2" style="color:white">Who are you?</h2>
+
+  </div>
+</center>
+<br>
+<br>
+<div class="row text-center">
+
+      <!--Grid column-->
+      
+      <!--Grid column-->
+      <div class="col-md-6 mb-4">
+
+        <h2  class="my-5 h2">Lorem ipsum<h2>
+
+        <img  width="60%" height="300px" src="https://tinyurl.com/y9cohn38"
+          data-holder-rendered="true">
+
+      </div>
+      <div class="col-md-6 mb-4">
+
+        <h2 class="my-5 h2">Lorem ipsum</h2>
+
+        <img  width="60%" height="300px" src="https://c4.wallpaperflare.com/wallpaper/109/199/795/the-simpsons-figure-picture-homer-maggie-hd-wallpaper-preview.jpg"
+          data-holder-rendered="true">
+
+      </div>
+      <!--Grid column-->
+
+    </div>
+    <!--Grid row-->
+   
+<!-- Footer -->
+<footer class="page-footer font-small blue" style="background-color:black">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+
+</body>
+</html>
+
+
